@@ -14,7 +14,7 @@ namespace InstagramAPI;
  * - You will NOT use this API for marketing or other abusive purposes (spam,
  *   botting, harassment, massive bulk messaging...).
  *
- * @author mgp25: Founder, Reversing, Project Leader (https://github.com/mgp25)
+ * @author nomi9995: Founder, Reversing, Project Leader (https://github.com/nomi9995)
  * @author SteveJobzniak (https://github.com/SteveJobzniak)
  */
 class Instagram implements ExperimentsInterface

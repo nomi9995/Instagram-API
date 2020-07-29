@@ -13,5 +13,5 @@ code version that you have downloaded, since development may evolve quickly in
 the development version of the code tree. Especially if you've installed the
 default, stable version of the library, which can often be severely out of date.
 
-Look in _your own_ local disk's `vendor/mgp25/instagram-php/examples` folder for
+Look in _your own_ local disk's `vendor/nomi9995/instagram-php/examples` folder for
 the examples that shipped with the exact library version you have installed!

@@ -1,14 +1,14 @@
-# ![logo](/examples/assets/instagram.png) Instagram-API [![Latest Stable Version](https://poser.pugx.org/mgp25/instagram-php/v/stable)](https://packagist.org/packages/mgp25/instagram-php) [![Total Downloads](https://poser.pugx.org/mgp25/instagram-php/downloads)](https://packagist.org/packages/mgp25/instagram-php) ![compatible](https://img.shields.io/badge/PHP%207-Compatible-brightgreen.svg) [![License](https://poser.pugx.org/mgp25/instagram-php/license)](https://packagist.org/packages/mgp25/instagram-php)
+# ![logo](/examples/assets/instagram.png) Instagram-API [![Latest Stable Version](https://poser.pugx.org/nomi9995/instagram-php/v/stable)](https://packagist.org/packages/nomi9995/instagram-php) [![Total Downloads](https://poser.pugx.org/nomi9995/instagram-php/downloads)](https://packagist.org/packages/nomi9995/instagram-php) ![compatible](https://img.shields.io/badge/PHP%207-Compatible-brightgreen.svg) [![License](https://poser.pugx.org/nomi9995/instagram-php/license)](https://packagist.org/packages/nomi9995/instagram-php)
 
 This is a PHP library which emulates Instagram's Private API. This library is packed full with almost all the features from the Instagram Android App. This includes media uploads, direct messaging, stories and more.
 
-**Read the [wiki](https://github.com/mgp25/Instagram-API/wiki)** and previous issues before opening a new one! Maybe your issue has already been answered.
+**Read the [wiki](https://github.com/nomi9995/Instagram-API/wiki)** and previous issues before opening a new one! Maybe your issue has already been answered.
 
-**Frequently Asked Questions:** [F.A.Q.](https://github.com/mgp25/Instagram-API/wiki/FAQ)
+**Frequently Asked Questions:** [F.A.Q.](https://github.com/nomi9995/Instagram-API/wiki/FAQ)
 
 **Do you like this project? Support it by donating**
 
-**mgp25**
+**nomi9995**
 
 - ![Paypal](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/paypal.png) Paypal: [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ATYY8H9MC96E)
 - ![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png) Bitcoin: 1DCEpC9wYXeUGXS58qSsqKzyy7HLTTXNYe
@@ -28,14 +28,14 @@ This is a PHP library which emulates Instagram's Private API. This library is pa
 
 ### Dependencies
 
-Install/enable the required php extensions and dependencies. You can learn how to do so [here](https://github.com/mgp25/Instagram-API/wiki/Dependencies).
+Install/enable the required php extensions and dependencies. You can learn how to do so [here](https://github.com/nomi9995/Instagram-API/wiki/Dependencies).
 
 ### Install this library
 We use composer to distribute our code effectively and easily. If you do not already have composer installed, you can download and install it here [here](https://getcomposer.org/download/).
 
 Once you have composer installed, you can do the following:
 ```sh
-composer require mgp25/instagram-php
+composer require nomi9995/instagram-php
 ```
 
 ```php
@@ -47,7 +47,7 @@ $ig = new \InstagramAPI\Instagram();
 If you want to test new and possibly unstable code that is in the master branch, and which hasn't yet been released, then you can do the following (at your own risk):
 
 ```sh
-composer require mgp25/instagram-php dev-master
+composer require nomi9995/instagram-php dev-master
 ```
 
 #### _Warning about moving data to a different server_
@@ -56,7 +56,7 @@ _Composer checks your system's capabilities and selects libraries based on your 
 
 ## Examples
 
-All examples can be found [here](https://github.com/mgp25/Instagram-API/tree/master/examples).
+All examples can be found [here](https://github.com/nomi9995/Instagram-API/tree/master/examples).
 
 ## Code of Conduct
 
@@ -68,7 +68,7 @@ Please report any unacceptable behavior.
 
 If you would like to contribute to this project, please feel free to submit a pull request.
 
-Before you do, take a look at the [contributing guide](https://github.com/mgp25/Instagram-API/blob/master/CONTRIBUTING.md).
+Before you do, take a look at the [contributing guide](https://github.com/nomi9995/Instagram-API/blob/master/CONTRIBUTING.md).
 
 ## Why did I make this API?
 
@@ -101,11 +101,11 @@ right to use this library.
 Furthermore, the library is _also_ available _to certain entities_ under a
 modified version of the RPL-1.5, which has been modified to allow you to use the
 library _without_ open-sourcing your own project. The modified license
-(see [LICENSE_PREMIUM](https://github.com/mgp25/Instagram-API/blob/master/LICENSE_PREMIUM))
+(see [LICENSE_PREMIUM](https://github.com/nomi9995/Instagram-API/blob/master/LICENSE_PREMIUM))
 is granted to certain entities, at _our_ discretion, and for a _limited_ period
 of time (unless otherwise agreed), pursuant to our terms. Currently, we are
 granting this license to all
-"[premium subscribers](https://github.com/mgp25/Instagram-API/issues/2655)" for
+"[premium subscribers](https://github.com/nomi9995/Instagram-API/issues/2655)" for
 the duration of their subscriptions. You can become a premium subscriber by
 either contributing substantial amounts of high-quality code, or by subscribing
 for a fee. This licensing ensures fairness and stimulates the continued growth

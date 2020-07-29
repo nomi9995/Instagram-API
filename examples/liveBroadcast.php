@@ -34,9 +34,9 @@ try {
     // https://obsproject.com).
     //
     // For more information on FFMPEG, see:
-    // https://github.com/mgp25/Instagram-API/issues/1488#issuecomment-324271177
+    // https://github.com/nomi9995/Instagram-API/issues/1488#issuecomment-324271177
     // and for OBS, see:
-    // https://github.com/mgp25/Instagram-API/issues/1488#issuecomment-333365636
+    // https://github.com/nomi9995/Instagram-API/issues/1488#issuecomment-333365636
 
     // Get FFmpeg handler and ensure that the application exists on this system.
     // NOTE: You can supply custom path to the ffmpeg binary, or just leave NULL

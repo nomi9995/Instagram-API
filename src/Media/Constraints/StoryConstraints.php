@@ -27,7 +27,7 @@ class StoryConstraints implements ConstraintsInterface
      *
      * @var float
      *
-     * @see https://github.com/mgp25/Instagram-API/issues/1420#issuecomment-318146010
+     * @see https://github.com/nomi9995/Instagram-API/issues/1420#issuecomment-318146010
      */
     const MIN_RATIO = 0.56;
 

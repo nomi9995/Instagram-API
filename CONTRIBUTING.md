@@ -2,7 +2,7 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-The following is a set of guidelines for contributing to the Instagram API, which is hosted in the [Instagram API repository](https://github.com/mgp25/Instagram-API) on GitHub.
+The following is a set of guidelines for contributing to the Instagram API, which is hosted in the [Instagram API repository](https://github.com/nomi9995/Instagram-API) on GitHub.
 
 These are just guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
@@ -62,7 +62,7 @@ That command will automatically fix all codestyle issues as well as generate var
 
 ### Available Tasks
 
-Please visit our [Project Task Tracker](https://github.com/mgp25/Instagram-API/projects), where contributors can look at the list of available work. High-quality code contributions are greatly appreciated.
+Please visit our [Project Task Tracker](https://github.com/nomi9995/Instagram-API/projects), where contributors can look at the list of available work. High-quality code contributions are greatly appreciated.
 
 
 ### Commits

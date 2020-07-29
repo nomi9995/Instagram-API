@@ -25,7 +25,7 @@ use Psr\Http\Message\ResponseInterface as HttpResponseInterface;
  * Most of the higher level code belongs in either the Request class or in the
  * individual endpoint functions.
  *
- * @author mgp25: Founder, Reversing, Project Leader (https://github.com/mgp25)
+ * @author nomi9995: Founder, Reversing, Project Leader (https://github.com/nomi9995)
  * @author SteveJobzniak (https://github.com/SteveJobzniak)
  */
 class Client
